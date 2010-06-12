@@ -1,0 +1,13 @@
+app/stylesheets/*.css
+config/database.yml
+db/schema.rb
+db/*.sql
+db/*.sqlite3
+doc/**
+.DS_Store
+log/*.lck
+log/*.log
+*.pid
+specs.html
+specs.txt
+tmp/**/*
